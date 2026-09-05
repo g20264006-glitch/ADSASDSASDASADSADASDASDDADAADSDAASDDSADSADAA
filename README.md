@@ -1,2 +1,52 @@
-# ADSASDSASDASADSADASDASDDADAADSDAASDDSADSADAA
-SDSDADASSDSDADSAASDDASDSADSASDDSSAD
+# 프로젝트 제목
+
+## 1. 중심 질문
+
+이 프로젝트에서 확인하려는 질문을 한 문장으로 작성합니다.
+
+## 2. 데이터
+
+- 데이터 이름:
+- 출처:
+- 라이선스:
+- 기록 수:
+- 한 행의 의미:
+- 주요 열:
+
+## 3. 분석 방법
+
+1. 데이터 품질 확인
+2. 날짜와 파생 변수 정리
+3. 집단 비교와 시간 변화 분석
+4. Plotly 시각화
+5. 기준 예측과 AI 비교
+6. 오류 사례 분석
+
+## 4. 핵심 발견
+
+1. 발견과 근거
+2. 발견과 근거
+3. 발견과 근거
+
+## 5. AI 분석
+
+- 입력 변수:
+- 예측 대상:
+- 학습/시험 분리 방법:
+- 기준 MAE:
+- AI MAE:
+- 가장 큰 오류 사례:
+
+## 6. 분석의 한계
+
+관계와 원인을 구분하고, 데이터에 없는 정보와 모델의 한계를 작성합니다.
+
+## 7. 결과 보기
+
+- [데이터 분석 대시보드](https://사용자이름.github.io/저장소이름/)
+- [1차시 노트북](notebooks/01_data_analysis.ipynb)
+- [2차시 노트북](notebooks/02_ai_dashboard.ipynb)
+
+## 8. 사용 도구
+
+Python, Google Colab, pandas, Plotly, scikit-learn, GitHub Pages
